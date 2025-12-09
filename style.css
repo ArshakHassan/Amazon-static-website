@@ -34,7 +34,6 @@
     border: 1.5px solid white;
 }
 
-/* box 2*/
 
 .addr-first{
     color: #cccc;
@@ -55,7 +54,6 @@
 
 }
 
-/*Box3*/
 
 .navsearch{
     display: flex;
@@ -94,7 +92,6 @@
     border-top-right-radius: 4px;
 }
 
-/*BOX4*/
 span{
     font-size: 0.7rem;
 }
@@ -109,7 +106,6 @@ span{
 
 }
 
-/**BOX6*/
 
 .nav-cart i{
     font-size: 30px;
@@ -121,7 +117,6 @@ span{
     font-weight: 700;
 }
 
-/*panel*/
 
 .panel{
     height: 40px;
@@ -183,7 +178,6 @@ span{
 }
 
 .box{
-    /* border: 2px solid black; */
     height: 400px;
     width: 23%;
     background-color: white;
@@ -208,7 +202,6 @@ span{
     color: #007185;
 }
 
-/*Footer*/
 
 footer{
     margin-top: 15px;
@@ -278,4 +271,5 @@ ul a{
 
 .copyright{
     text-align: center;
+
 }
